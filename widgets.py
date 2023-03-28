@@ -113,4 +113,4 @@ layout = layout(
 
 )
 
-show(layout)
+st.bokeh_chart(fig)

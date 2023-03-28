@@ -113,4 +113,4 @@ layout = layout(
 
 )
 
-st.bokeh_chart(layout)
+st.bokeh_chart(p)

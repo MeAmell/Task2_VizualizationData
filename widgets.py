@@ -113,4 +113,4 @@ layout = layout(
 
 )
 
-st.bokeh_chart(p, use_container_width=True)
+st.bokeh_chart(layout)
